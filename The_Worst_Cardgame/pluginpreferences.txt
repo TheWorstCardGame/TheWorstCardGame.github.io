@@ -1,5 +1,6 @@
 <pluginpreferences>
 
+<lastversionupdate>230323</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
@@ -23,6 +24,7 @@
 <canned>/draw6</canned>
 <canned>/draw8</canned>
 <canned>Good game.</canned>
+<tokens>Blue Eyes White Dragon from Yu-Gi-Oh!</tokens>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
 <fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
@@ -59,8 +61,7 @@
 <bindingcanned8>CTRL+9</bindingcanned8>
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
-<quickzoom>400.000000</quickzoom>
+<quickzoom>4.000000</quickzoom>
 <tilt>40.000000</tilt>
-<prevtilt>0.000000</prevtilt>
 
 </pluginpreferences>
