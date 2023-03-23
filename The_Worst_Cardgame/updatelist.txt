@@ -2,11 +2,11 @@ The_Worst_Cardgame	03-22-23
 plugins/The_Worst_Cardgame/bot.jpg	https://theworstcardgame.github.io/The_Worst_Cardgame/bot.jpg	-84527
 plugins/The_Worst_Cardgame/formats.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/formats.txt	13083
 plugins/The_Worst_Cardgame/plugininfo.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/plugininfo.txt	201458
-plugins/The_Worst_Cardgame/updatelist.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/updatelist.txt	293942
-plugins/The_Worst_Cardgame/version.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/version.txt	28427
+plugins/The_Worst_Cardgame/updatelist.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/updatelist.txt	294450
+plugins/The_Worst_Cardgame/version.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/version.txt	28091
 plugins/The_Worst_Cardgame/packs/BoosterPac.jpg	https://theworstcardgame.github.io/The_Worst_Cardgame/packs/BoosterPac.jpg	-20730
 plugins/The_Worst_Cardgame/packs/packdefinitions1.xml	https://theworstcardgame.github.io/The_Worst_Cardgame/packs/packdefinitions1.xml	89592
-plugins/The_Worst_Cardgame/sets/alpha_carddata.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/sets/alpha_carddata.txt	925912
+plugins/The_Worst_Cardgame/sets/alpha_carddata.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/sets/alpha_carddata.txt	907367
 plugins/The_Worst_Cardgame/sets/beta_carddata.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/sets/beta_carddata.txt	4040
 plugins/The_Worst_Cardgame/sets/gamma_carddata.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/sets/gamma_carddata.txt	4040
 plugins/The_Worst_Cardgame/sets/ListOfCardDataFiles.txt	https://theworstcardgame.github.io/The_Worst_Cardgame/sets/ListOfCardDataFiles.txt	18888
@@ -21,4 +21,4 @@ plugins/The_Worst_Cardgame/sets/setimages/general/yellowback.jpg	https://thewors
 plugins/The_Worst_Cardgame/sets/setimages/general/MtGback.jpg	https://theworstcardgame.github.io/The_Worst_Cardgame/sets/setimages/general/MtGback.jpg	291877
 plugins/The_Worst_Cardgame/sets/setimages/general/YGOback.jpg	https://theworstcardgame.github.io/The_Worst_Cardgame/sets/setimages/general/YGOback.jpg	-19360
 CardGeneralURLs:
-https://theworstcardgame.github.io/The_Worst_Cardgame/sets/setimages/Alpha
+https://theworstcardgame.github.io/The_Worst_Cardgame/sets/setimages/
