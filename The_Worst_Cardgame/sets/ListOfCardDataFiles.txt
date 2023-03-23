@@ -1,0 +1,7 @@
+<listofcarddatafiles>
+
+	<filetoinclude>alpha_carddata.txt</filetoinclude>
+	<filetoinclude>beta_carddata.txt</filetoinclude>
+	<filetoinclude>gamma_carddata.txt</filetoinclude>
+
+</listofcarddatafiles>

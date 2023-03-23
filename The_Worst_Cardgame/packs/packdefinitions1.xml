@@ -1,0 +1,25 @@
+<packdefinitions version="0.1">
+
+<pack>
+	<packtitle>Alpha Pack</packtitle>
+	<packimage>BoosterPac</packimage>
+	<packformat>Playtest Block<packformat>
+	<packkind>Draft Booster<packkind>
+	<packdoubles>no</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>Alpha</data></packcommoncrit>
+	<chance>
+		<prob>90</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>2</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>1</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>0</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>10</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>3</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>2</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>1</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>0</data></crit></kind>
+	</chance>
+</pack
+
+</packdefinitions>

@@ -1,0 +1,18 @@
+The_Worst_Cardgame	03-22-23
+plugins/The_Worst_Cardgame/bot.jpg http://www. 0
+plugins/The_Worst_Cardgame/formats.txt http://www. 1
+plugins/The_Worst_Cardgame/plugininfo.txt http://www. 2
+plugins/The_Worst_Cardgame/updatelist.txt http://www. 3
+plugins/The_Worst_Cardgame/decks/Sample.dek http://www. 4
+plugins/The_Worst_Cardgame/packs/BoosterPac.jpg http://www. 5
+plugins/The_Worst_Cardgame/packs/packdefinitions1.xml http://www. 6
+plugins/The_Worst_Cardgame/sets/alpha_carddata.txt http://www. 7
+plugins/The_Worst_Cardgame/sets/beta_carddata.txt http://www. 8
+plugins/The_Worst_Cardgame/sets/gamma_carddata.txt http://www. 9
+plugins/The_Worst_Cardgame/sets/ListOfCardDataFiles.txt http://www. 10
+plugins/The_Worst_Cardgame/sets/general/cardback.jpg http://www. 11
+plugins/The_Worst_Cardgame/sets/general/spawned.jpg http://www. 12
+
+
+CardGeneralURLS:
+http://www.

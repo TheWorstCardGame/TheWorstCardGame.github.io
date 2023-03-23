@@ -1,0 +1,156 @@
+<plugin>
+
+
+
+	<playerstat>
+		<label>HP</label>
+		<initialvalue>20</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>R</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>G</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>B</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>Y</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+	
+	<playerstat>
+		<label>A</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+
+
+	<deckzone>
+		<label>Deck</label>
+		<gamezonetoloadto>Deck</gamezonetoloadto>
+		<shuffle>yes</shuffle>
+	</deckzone>
+
+
+	<gamezone>
+		<label>Hand</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+
+	<gamezone>
+		<label>Deck</label>
+		<visibletoowner>no</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+
+	<gamezone>
+		<label>Declared</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+
+
+	<phase>
+		<label>Draw</label>
+	</phase>
+	
+	<phase>
+		<label>Decide</label>
+	</phase>
+	
+	<phase>
+		<label>Declare</label>
+	</phase>
+	
+	<phase>
+		<label>1st Action</label>
+	</phase>
+	
+	<phase>
+		<label>2nd Action</label>
+	</phase>
+	
+	<phase>
+		<label>End</label>
+	</phase>
+
+
+	<generalfunction>
+		<label>Draw</label>
+		<kind>DRAWCARD</kind>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Flip Coin</label>
+		<kind>FLIPCOIN</kind>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Roll D6</label>
+		<kind>ROLLD6</kind>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Previous Phase</label>
+		<kind>PREVIOUSPHASE</kind>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Next Phase</label>
+		<kind>NEXTPHASE</kind>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Previous Turn</label>
+		<kind>PREVIOUSTURN</kind>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Next Turn</label>
+		<kind>NEXTTURN</kind>
+	</generalfunction>
+
+
+	<cardfunction>
+		<label>Turn Over</label>
+		<kind>TURNOVER</kind>
+	</cardfunction>	
+	
+	<cardfunction>
+		<label>Add Counter</label>
+		<kind>ADDCOUNTER</kind>
+		<color>blue</color>
+		<PositionX>0</PositionX>
+		<PositionY>0</PositionY>
+	</cardfunction>
+
+
+	<definition>
+		<kind>DOTOKENSDISAPPEAROFFTABLE</kind>
+		<value>no</value>
+	</definition>
+	
+	<definition>
+		<kind>GLOBALTABLEITEMSCALE</kind>
+		<value>2.5</value>
+	</definition>
+
+	<definition>
+		<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+		<value>yes</value>
+	</definition>
+
+
+
+</plugin>
+
+ 
