@@ -1,88 +1,88 @@
 Name	Set	ImageFile	Type	R	G	B	Y	Rarity	Number	Text
-Samurai Champloo	Alpha	alpha_SamuraiChamploo,redback	Red	A	B	_	_	0	APH001	A: Deal 4 damage and
-Feral Dog	Alpha	alpha_FeralDog,redback	Red	A	B	_	_	0	APH002	A: Deal 2 damage. Opponent loses 2 G.
-Test of Strength	Alpha	alpha_TestofStrength,redback	Red	A	_	_	B	0	APH003	A: (RRYY) If this card costs more mana than opponent's, deal 8 damage.
-Retarded Twitter Take	Alpha	alpha_RetardedTwitterTake,redback	Red	A	B	_	_	0	APH004	A: Deal 3 damage. Burn everyone.
-please just shut the fuck up	Alpha	alpha_pleasejustshutthefuckup,redback	Red	A	_	_	_	0	APH005	A: Deal 3 damage. Silence opponent.
-Weast	Alpha	alpha_Weast,redback	Red	_	B	_	B	0	APH006	B: Deal 3 damage. You opponent loses 5 mana of the same colour as their card.
-From Michigan	Alpha	alpha_FromMichigan,redback	Red	A	_	_	B	0	APH007	A: Deal 3 damage, guts.
-The Bite of '87	Alpha	alpha_TheBiteof87,redback	Red	B	_	_	_	1	APH015	B: Deal 4 damage. Invincible yourself.
-Consumed by Cunny	Alpha	alpha_ConsumedbyCunny,redback	Red	B	B	_	B	2	APH016	B: Take 5 damage. Gain 3 R.
-Red Draw 2	Alpha	alpha_RedDraw2,redback	Red	B	B	_	_	2	APH017	B: Take 10 damage. Draw a card.
-Communism	Alpha	alpha_Communism,redback	Red	A	_	_	_	3	APH021	A: Deal 2 damage for each of your R.
-Hot Sister	Alpha	alpha_HotSister,redback	Red	A	B	_	_	3	APH022	A: Deal 3 damage. All of your mana becomes R.
-Ringo, The Unfuckable	Alpha	alpha_RingoTheUnfuckable,redback	Red	B	_	_	A	3	APH024	A: (RRRRYY) Deal 10 damage.
-Hammer & Sickle	Alpha	alpha_HammerSickle,redback	Red	C	_	B	_	3	APH025	C: Deal 5 damage. Berserk <.
-Zero Days	Alpha	alpha_ZeroDays,greenback	Green	_	A	_	_	0	APH026	A: Deal 3 damage. Silence opponent.
-Drunkposting	Alpha	alpha_Drunkposting,greenback	Green	_	A	_	_	0	APH027	A: Deal 4 damage. Poison everyone.
-Morphine	Alpha	alpha_Morphine,greenback	Green	_	B	B	B	0	APH028	B: (GG) Protect yourself.
-Kill With a Rock	Alpha	alpha_KillWithaRock,greenback	Green	_	A	_	B	0	APH029	A: (G) Deal 5 damage.
-Blob	Alpha	alpha_Blob,greenback	Green	_	A	_	_	0	APH030	A: Deal 4 damage for each Shield on opponent's card.
-Minecrap	Alpha	alpha_Minecrap,greenback	Green	_	A	B	_	0	APH031	A: Deal 3 damage. Opponent loses 2 G.
-Touching Grass	Alpha	alpha_Donair,greenback	Green	_	B	B	B	0	APH032	B: (GGY) Heal 2 HP for each of your opponent's Y.
-Mohammed VI, Blazing	Alpha	alpha_MohammedVIBlazing,greenback	Green	_	A	B	B	1	APH036	A: Deal 3 damage. Slow opponent.
-Bill, On the Top of the Hill	Alpha	alpha_BillOntheTopoftheHill,greenback	Green	_	A	_	B	1	APH037	A: (GG) Deal 5 damage. Double it if you're on the top of the hill (you have the most HP).
-COUNTER!	Alpha	alpha_COUNTER,greenback	Green	_	B	_	_	1	APH040	B: Deal 10 damage. Haste yourself.
-Pasta Tier List	Alpha	alpha_,greenback	Green	_	A	_	_	2	APH041	A: (G) Deal 5 damage. Decks are not shuffled at the beginning of the next Draw phase.
-GREEN	Alpha	alpha_GREEN,greenback	Green	_	A	_	_	3	APH046	A: Deal 2 damage for each of your G.
-Come to FSJ	Alpha	alpha_CometoFSJ,greenback	Green	_	B	B	_	3	APH047	B: (GG) All of your mana becomes G.
-THE ONE PIECE IS REAL	Alpha	alpha_THEONEPIECEIS REAL,greenback	Green	B	_	A	_	3	APH049	A: (GGGBBBY) Set your current and maximum HP to 30.
-Pot Buster	Alpha	alpha_PotBuster,greenback	Green	B	C	_	_	3	APH050	C: Deal 3 damage for each Shield on opponent's card.
-Padoru Padoru	Alpha	alpha_PadoruPadoru,blueback	Blue	_	_	A	_	0	APH051	A: Deal 3 damage. Freeze opponent.
-Bear Obama	Alpha	alpha_BearObama,blueback	Blue	B	_	A	_	0	APH052	A: (B) Deal 3 damage. Your opponent loses 3 R.
-ur muted btw	Alpha	alpha_urmutedbtw,blueback	Blue	B	_	A	_	0	APH053	A: Deal 2 damage. Silence opponent.
-I Am So Happy About This Information	Alpha	alpha_IAmSoHappyAboutThisInformation,blueback	Blue	B	B	B	B	0	APH054	B: You may search your deck for Just a Week Away and add it to your hand.
-TOTSUGEKI!	Alpha	alpha_TOTSUGEKI,blueback	Blue	B	_	A	_	0	APH055	A: (B) Deal 3 damage for each Shield on opponent's card.
-fortnite funnie s compilation #3	Alpha	alpha_fortnitefunniescompilation3,blueback	Blue	B	B	B	_	0	APH056	B: Deal 3 damage. Heal 3 HP. Steal 3 B from your opponent.
-HATSUNE MIKU?!?!?!	Alpha	alpha_HATSUNEMIKU,blueback	Blue	_	_	A	_	0	APH057	A: Deal 3 damage. Opponent loses all mana of their most abundant colour.
-Psychic Vampire	Alpha	alpha_PsychicVampire,blueback	Blue	_	_	A	_	1	APH061	A: Deal 2 damage. Steal 3 of opponent's B.
-Elsa Female	Alpha	alpha_ElsaFemale,blueback	Blue	B	B	_	_	1	APH062	B: (B) Deal 2 damage. Restore 2 HP. Freeze.
-Counterspell	Alpha	alpha_Counterspell,blueback	Blue	_	_	B	_	1	APH065	B: Add Counterspell from Magic the Gathering to your hand.
-Blue Eyes White Dragon	Alpha	alpha_BlueEyesWhiteDragon,blueback	Blue	_	_	A	_	2	APH066	A: (BBBBBBBBBB) Special Summon Blue Eyes White Dragon to your side of the field in Attack position.
-Cipher Eagle	Alpha	alpha_CipherEagle,blueback	Blue	_	_	A	_	2	APH070	A: Opponent heals 3 HP then takes 3 damage. Opponent takes 3 damage then heals 3 HP. Burn, Poison, Freeze, and Numb yourself, then Refresh yourself. Stim yourself and Protect your opponent. Opponent gains 1 R, 1 G, 1 B, 1 Y, then opponent loses 1 R, 1 G, 1 B, 1 Y.
-I'm Blue	Alpha	alpha_ImBlue,blueback	Blue	_	_	A	_	3	APH071	A: Deal 2 damage for each of your B.
-Hydrated	Alpha	alpha_Hydrated,blueback	Blue	_	B	B	_	3	APH072	B: (GBB) All of your opponent's mana becomes B.
-Hydrated2	Alpha	alpha_Hydrated2,blueback	Blue	_	_	C	_	3	APH072-2	C: (GBB) All of your opponent's mana becomes B.
-Just a Week Away!	Alpha	alpha_JustaWeekAway,blueback	Blue	B	B	B	_	3	APH073	B: Do not return this to your deck, place counters on this to keep track of the date. Tomorrow is December 1st. When it's Christmas, you win the game.
-lost marbles	Alpha	alpha_lostmarbles,blueback	Blue	A	_	B	_	3	APH074	A: (RRRBB) Deal 7 damage. Opponent loses all of their marbles.
-banhammer	Alpha	alpha_banhammer,blueback	Blue	_	_	C	B	3	APH075	C: Deal 1 damage. Opponent loses all of their mana.
-Balkan Racism	Alpha	alpha_BalkanRacism,yellowback	Yellow	_	_	B	A	0	APH076	A: Deal 4 damage. Racism White.
-Yung Twink	Alpha	alpha_,yellowback	Yellow	B	_	_	A	0	APH077	A: Deal 3 damage, guts.
-Mind Rot	Alpha	alpha_MindRot,yellowback	Yellow	_	_	B	B	0	APH078	B: Deal 3 damage, Opponent loses all mana of their most abundant colour.
-i like momoland	Alpha	alpha_ilikemomoland,yellowback	Yellow	_	_	B	A	0	APH085	A: (RBY) Deal 1 damage for each of your opponent's R, B, Y.
-I LOVE MOMOLAND	Alpha	alpha_ILOVEMOMOLAND,yellowback	Yellow	_	_	_	A	1	APH086	A: (RGBY) Deal 2 damage for each of your opponent's R, G, B, Y.
-Cracker	Alpha	alpha_Cracker,yellowback	Yellow	B	B	B	B	1	APH087	B: Deal 4 damage if opponent's card is White.
-Dehydrated	Alpha	alpha_Dehydrated,yellowback	Yellow	_	_	B	A	1	APH088	A: (YY) Deal 3 damage for each of your opponent's B.
-MOMOLAND Comeback	Alpha	alpha_MOMOLANDComeback,yellowback	Yellow	_	_	_	B	1	APH090	B: Restore 10 HP.
-no u	Alpha	alpha_nou,yellowback	Yellow	B	_	B	B	2	APH091	B: (YY) Your opponent resolves their card, targeting themselves.
-League of Legends	Alpha	alpha_LeagueofLegends,yellowback	Yellow	B	_	B	B	2	APH092	B: (RGBYY) Your opponent resolves their card, targeting themselves. Then they do it again.
-Lying Can (Not) Exist	Alpha	alpha_LyingCanNotExist,yellowback	Yellow	_	_	B	A	2	APH093	A: (BY) Your opponent reveals the cards currently in their hand.
-Light Theme	Alpha	alpha_LightTheme,yellowback	Yellow	_	_	_	A	3	APH096	A: Deal 2 damage for each of your Y.
-yellow22	Alpha	alpha_yellow22,yellowback	Yellow	B	_	B	B	3	APH097	B: Deal 1 damage. All your mana becomes Y.
-Personality Quiz	Alpha	alpha_PersonalityQuiz,yellowback	Yellow	_	A	_	B	3	APH099	A: (GGYY) Deal 2 damage for each mana of the most abundant colour that your opponent has.
-Delay Tech	Alpha	alpha_DelayTech,yellowback	Yellow	_	B	_	C	3	APH100	C: Deal 6 damage. Protect.
-Argument Colour	Alpha	alpha_ArgumentColour,alpha_ArgumentColour	#FAED27	_	A	_	A	1	APH101	A: (GY) Deal 3 damage. You gain 1 G and 1 Y.
-Drevenwall	Alpha	alpha_Drevenwall,whiteback	White	_	B	A	_	0	APH102	A: Roll a d6 and deal damage equal to the result of the roll.
-Gurandomasutauibu	Alpha	alpha_Gurandomasutauibu,whiteback	White	_	A	_	_	0	APH103	A: This doesn't do anything, baka gaijin. Kono tekisuto o koenidashite yomu koto ga dekiru baai ni nomi, 5 dameji o ataemasu.
-Fit Pic Friday	Alpha	alpha_FitPicFriday,whiteback	White	A	_	_	_	0	APH104	A: Choose two: Deal 3 damage. Deal 1 damage for each Shield on opponent's card. Burn opponent. Freeze everyone.
-Overwatch Grand Wizard	Alpha	alpha_OverwatchGrandWizard,whiteback	White	_	C	_	_	0	APH105	C: Deal 3 damage. Opponent loses all mana of their most abundant colour.
-Overwatch Grand Wizard 2	Alpha	alpha_OverwatchGrandWizard2,whiteback	White	_	A	_	_	0	APH105-2	C: Deal 3 damage. Opponent loses all mana of their most abundant colour.
-Sultan Baby	Alpha	alpha_SultanBaby,whiteback	White	A	_	_	B	1	APH106	A: (RYY) Deal 3 damage for each of your opponent's R. You receive 2 damage for each of your B.
-Cowboy Baby	Alpha	alpha_CowboyBaby,whiteback	White	_	B	A	_	1	APH107	A: (BYY) Deal 3 damage for each of your opponent's B. You receive 2 damage for each of your G.
-Guys Turn 10	Alpha	alpha_GuysTurn10,whiteback	White	B	_	A	_	1	APH111	A: If your HP is 10 or less, deal 7 damage.
-Coomer Club	Alpha	alpha_CoomerClub,whiteback	White	_	C	_	B	2	APH112	C: Deal damage equal to how many consecutive White cards are on the top of your deck.
-New Years Minesweeper	Alpha	alpha_NewYearsMinesweeper,whiteback	White	_	_	A	B	2	APH115	A: Guess what the top card of your opponent's deck is. If you guess correctly, deal 7 damage.
-white15	Alpha	alpha_,whiteback	White	A	_	_	_	2	APH116	A: Deal 5 damage. Flip a coin.
-Moon Ping	Alpha	alpha_MoonPing,whiteback	White	_	_	C	_	3	APH117	C: Deal 2 damage for each of your R, G, B, Y. Slow opponent.
-FUCK IT WE BALL	Alpha	alpha_FUCKITWEBALL,whiteback	White	A	A	A	A	3	APH118	A: IF YOUR HP IS 1 OR LESS, DEAL 999999 DAMAGE.
-Gurren Lagann	Alpha	alpha_GurrenLagann,whiteback	White	C	C	C	C	3	APH119	C: Deal 3 damage for each Shield on opponent's card.
-Balkan Nationalism	Alpha	alpha_,whiteback	White	_	_	_	A	3	APH120	A: (RGBYY) Deal 2 damage for each of your mana.
-Guys Turn 20	Alpha	alpha_GuysTurn20,whiteback	White	_	A	_	B	3	APH121	A: (RGG) Deal damage equal to 1/2 of your current HP.
-Gacha Addiction	Alpha	alpha_GachaAddiction,blackback	Black	B	A	_	_	0	APH122	A: Flip a coin 10 times. Deal damage equal to 10 divided by the amount of tails.
-The Worst Card Game	Alpha	alpha_TheWorstCardGame,blackback	Black	A	B	C	B	0	APH123	(RRGGBBYYAA) Win the game. A: (RR) Deal 2 damage, Berserk 5. B: (GG) Deal 2 damage. Poison opponent. C: (BB) Heal 2 HP for each Shield on opponent's card. B: (YY) Heal 2 HP. Opponent loses 2 mana of their most abundant colour.
-Alchemy	Alpha	alpha_Alchemy,blackback	Black	B	_	B	B	1	APH124	A: Gain 1 gay mana.
-AI Porn	Alpha	alpha_AIPorn,blackback	Black	A	_	_	B	2	APH125	A: (RGY) Deal damage equal to 1/2 of your current HP.
-Game Suck Ever	Alpha	alpha_GameSuckEver,blackback	Black					2	APH126	(RRGGBBYY) Both players lose the game?
-Masonic Literature	Alpha	alpha_MasonicLiterature,blackback	Black					3	APH127	Set your HP to any number equal to or less than 5.
+Samurai Champloo	Alpha	alpha_nandeck_01,redback	Red	A	B	_	_	0	APH001	A: Deal 4 damage and
+Feral Dog	Alpha	alpha_nandeck_02,redback	Red	A	B	_	_	0	APH002	A: Deal 2 damage. Opponent loses 2 G.
+Test of Strength	Alpha	alpha_nandeck_03,redback	Red	A	_	_	B	0	APH003	A: (RRYY) If this card costs more mana than opponent's, deal 8 damage.
+Retarded Twitter Take	Alpha	alpha_nandeck_04,redback	Red	A	B	_	_	0	APH004	A: Deal 3 damage. Burn everyone.
+please just shut the fuck up	Alpha	alpha_nandeck_05,redback	Red	A	_	_	_	0	APH005	A: Deal 3 damage. Silence opponent.
+Weast	Alpha	alpha_nandeck_06,redback	Red	_	B	_	B	0	APH006	B: Deal 3 damage. You opponent loses 5 mana of the same colour as their card.
+From Michigan	Alpha	alpha_nandeck_07,redback	Red	A	_	_	B	0	APH007	A: Deal 3 damage, guts.
+The Bite of '87	Alpha	alpha_nandeck_08,redback	Red	B	_	_	_	1	APH015	B: Deal 4 damage. Invincible yourself.
+Consumed by Cunny	Alpha	alpha_nandeck_09,redback	Red	B	B	_	B	2	APH016	B: Take 5 damage. Gain 3 R.
+Red Draw 2	Alpha	alpha_nandeck_10,redback	Red	B	B	_	_	2	APH017	B: Take 15 damage. Draw 2 cards.
+Communism	Alpha	alpha_nandeck_11,redback	Red	A	_	_	_	3	APH021	A: Deal 2 damage for each of your R.
+Hot Sister	Alpha	alpha_nandeck_12,redback	Red	A	B	_	_	3	APH022	A: Deal 3 damage. All of your mana becomes R.
+Ringo, The Unfuckable	Alpha	alpha_nandeck_13,redback	Red	B	_	_	A	3	APH024	A: (RRRRYY) Deal 10 damage.
+Hammer & Sickle	Alpha	alpha_nandeck_14,redback	Red	C	_	B	_	3	APH025	C: Deal 5 damage. Berserk <.
+Zero Days	Alpha	alpha_nandeck_15,greenback	Green	_	A	_	_	0	APH026	A: Deal 3 damage. Silence opponent.
+Drunkposting	Alpha	alpha_nandeck_16,greenback	Green	_	A	_	_	0	APH027	A: Deal 4 damage. Poison everyone.
+Morphine	Alpha	alpha_nandeck_17,greenback	Green	_	B	B	B	0	APH028	B: (GG) Protect yourself.
+Kill With a Rock	Alpha	alpha_nandeck_18,greenback	Green	_	A	_	B	0	APH029	A: (G) Deal 5 damage.
+Blob	Alpha	alpha_nandeck_19,greenback	Green	_	A	_	_	0	APH030	A: Deal 4 damage for each Shield on opponent's card.
+Minecrap	Alpha	alpha_nandeck_20,greenback	Green	_	A	B	_	0	APH031	A: Deal 3 damage. Opponent loses 2 G.
+Touching Grass	Alpha	alpha_nandeck_21,greenback	Green	_	B	B	B	0	APH032	B: (GGY) Heal 2 HP for each of your opponent's Y.
+Mohammed VI, Blazing	Alpha	alpha_nandeck_22,greenback	Green	_	A	B	B	1	APH036	A: Deal 3 damage. Slow opponent.
+Bill, On the Top of the Hill	Alpha	alpha_nandeck_23,greenback	Green	_	A	_	B	1	APH037	A: (GG) Deal 5 damage. Double it if you're on the top of the hill (you have the most HP).
+COUNTER!	Alpha	alpha_nandeck_24,greenback	Green	_	B	_	_	1	APH040	B: Deal 10 damage. Haste yourself.
+Pasta Tier List	Alpha	alpha_nandeck_25,greenback	Green	_	A	_	_	2	APH041	A: (G) Deal 5 damage. Decks are not shuffled at the beginning of the next Draw phase.
+GREEN	Alpha	alpha_nandeck_26,greenback	Green	_	A	_	_	3	APH046	A: Deal 2 damage for each of your G.
+Come to FSJ	Alpha	alpha_nandeck_27,greenback	Green	_	B	B	_	3	APH047	B: (GG) All of your mana becomes G.
+THE ONE PIECE IS REAL	Alpha	alpha_nandeck_28,greenback	Green	B	_	A	_	3	APH049	A: (GGGBBBY) Set your current and maximum HP to 30.
+Pot Buster	Alpha	alpha_nandeck_29,greenback	Green	B	C	_	_	3	APH050	C: Deal 3 damage for each Shield on opponent's card.
+Padoru Padoru	Alpha	alpha_nandeck_30,blueback	Blue	_	_	A	_	0	APH051	A: Deal 3 damage. Freeze opponent.
+Bear Obama	Alpha	alpha_nandeck_31,blueback	Blue	B	_	A	_	0	APH052	A: (B) Deal 3 damage. Your opponent loses 3 R.
+ur muted btw	Alpha	alpha_nandeck_32,blueback	Blue	B	_	A	_	0	APH053	A: Deal 2 damage. Silence opponent.
+I Am So Happy About This Information	Alpha	alpha_nandeck_33,blueback	Blue	B	B	B	B	0	APH054	B: You may search your deck for Just a Week Away and add it to your hand.
+TOTSUGEKI!	Alpha	alpha_nandeck_34,blueback	Blue	B	_	A	_	0	APH055	A: (B) Deal 3 damage for each Shield on opponent's card.
+fortnite funnie s compilation #3	Alpha	alpha_nandeck_35,blueback	Blue	B	B	B	_	0	APH056	B: Deal 3 damage. Heal 3 HP. Steal 3 B from your opponent.
+HATSUNE MIKU?!?!?!	Alpha	alpha_nandeck_36,blueback	Blue	_	_	A	_	0	APH057	A: Deal 3 damage. Opponent loses all mana of their most abundant colour.
+Psychic Vampire	Alpha	alpha_nandeck_37,blueback	Blue	_	_	A	_	1	APH061	A: Deal 2 damage. Steal 3 of opponent's B.
+Elsa Female	Alpha	alpha_nandeck_38,blueback	Blue	B	B	_	_	1	APH062	B: (B) Deal 2 damage. Restore 2 HP. Freeze.
+Counterspell	Alpha	alpha_nandeck_39,blueback	Blue	_	_	B	_	1	APH065	B: Add Counterspell from Magic the Gathering to your hand.
+Blue Eyes White Dragon	Alpha	alpha_nandeck_40,blueback	Blue	_	_	A	_	2	APH066	A: (BBBBBBBBBB) Special Summon Blue Eyes White Dragon to your side of the field in Attack position.
+Cipher Eagle	Alpha	alpha_nandeck_41,blueback	Blue	_	_	A	_	2	APH070	A: Opponent heals 3 HP then takes 3 damage. Opponent takes 3 damage then heals 3 HP. Burn, Poison, Freeze, and Numb yourself, then Refresh yourself. Stim yourself and Protect your opponent. Opponent gains 1 R, 1 G, 1 B, 1 Y, then opponent loses 1 R, 1 G, 1 B, 1 Y.
+I'm Blue	Alpha	alpha_nandeck_42,blueback	Blue	_	_	A	_	3	APH071	A: Deal 2 damage for each of your B.
+Hydrated	Alpha	alpha_nandeck_43,blueback	Blue	_	B	B	_	3	APH072	B: (GBB) All of your opponent's mana becomes B.
+Hydrated2	Alpha	alpha_nandeck_44,blueback	Blue	_	_	C	_	3	APH072-2	C: (GBB) All of your opponent's mana becomes B.
+Just a Week Away!	Alpha	alpha_nandeck_45,blueback	Blue	B	B	B	_	3	APH073	B: Do not return this to your deck, place counters on this to keep track of the date. Tomorrow is December 1st. When it's Christmas, you win the game.
+lost marbles	Alpha	alpha_nandeck_46,blueback	Blue	A	_	B	_	3	APH074	A: (RRRBB) Deal 7 damage. Opponent loses all of their marbles.
+banhammer	Alpha	alpha_nandeck_47,blueback	Blue	_	_	C	B	3	APH075	C: Deal 1 damage. Opponent loses all of their mana.
+Balkan Racism	Alpha	alpha_nandeck_48,yellowback	Yellow	_	_	B	A	0	APH076	A: Deal 4 damage. Racism White.
+Yung Twink	Alpha	alpha_nandeck_49,yellowback	Yellow	B	_	_	A	0	APH077	A: Deal 3 damage, guts.
+Mind Rot	Alpha	alpha_nandeck_50,yellowback	Yellow	_	_	B	B	0	APH078	B: Deal 3 damage, Opponent loses all mana of their most abundant colour.
+i like momoland	Alpha	alpha_nandeck_51,yellowback	Yellow	_	_	B	A	0	APH085	A: (RBY) Deal 1 damage for each of your opponent's R, B, Y.
+I LOVE MOMOLAND	Alpha	alpha_nandeck_52,yellowback	Yellow	_	_	_	A	1	APH086	A: (RGBY) Deal 2 damage for each of your opponent's R, G, B, Y.
+Cracker	Alpha	alpha_nandeck_53,yellowback	Yellow	B	B	B	B	1	APH087	B: Deal 4 damage if opponent's card is White.
+Dehydrated	Alpha	alpha_nandeck_54,yellowback	Yellow	_	_	B	A	1	APH088	A: (YY) Deal 3 damage for each of your opponent's B.
+MOMOLAND Comeback	Alpha	alpha_nandeck_55,yellowback	Yellow	_	_	_	B	1	APH090	B: Restore 10 HP.
+no u	Alpha	alpha_nandeck_56,yellowback	Yellow	B	_	B	B	2	APH091	B: (YY) Your opponent resolves their card, targeting themselves.
+League of Legends	Alpha	alpha_nandeck_57,yellowback	Yellow	B	_	B	B	2	APH092	B: (RGBYY) Your opponent resolves their card, targeting themselves. Then they do it again.
+Lying Can (Not) Exist	Alpha	alpha_nandeck_58,yellowback	Yellow	_	_	B	A	2	APH093	A: (BY) Your opponent reveals the cards currently in their hand.
+Light Theme	Alpha	alpha_nandeck_59,yellowback	Yellow	_	_	_	A	3	APH096	A: Deal 2 damage for each of your Y.
+yellow22	Alpha	alpha_nandeck_60,yellowback	Yellow	B	_	B	B	3	APH097	B: Deal 1 damage. All your mana becomes Y.
+Personality Quiz	Alpha	alpha_nandeck_61,yellowback	Yellow	_	A	_	B	3	APH099	A: (GGYY) Deal 2 damage for each mana of the most abundant colour that your opponent has.
+Delay Tech	Alpha	alpha_nandeck_62,yellowback	Yellow	_	B	_	C	3	APH100	C: Deal 6 damage. Protect.
+Argument Colour	Alpha	alpha_nandeck_63,ArgumentColour.png	#FAED27	_	A	_	A	1	APH101	A: (GY) Deal 3 damage. You gain 1 G and 1 Y.
+Drevenwall	Alpha	alpha_nandeck_64,whiteback	White	_	B	A	_	0	APH102	A: Roll a d6 and deal damage equal to the result of the roll.
+Gurandomasutauibu	Alpha	alpha_nandeck_65,whiteback	White	_	A	_	_	0	APH103	A: This doesn't do anything, baka gaijin. Kono tekisuto o koenidashite yomu koto ga dekiru baai ni nomi, 5 dameji o ataemasu.
+Fit Pic Friday	Alpha	alpha_nandeck_66,whiteback	White	A	_	_	_	0	APH104	A: Choose two: Deal 3 damage. Deal 1 damage for each Shield on opponent's card. Burn opponent. Freeze everyone.
+Overwatch Grand Wizard	Alpha	alpha_nandeck_67,whiteback	White	_	C	_	_	0	APH105	C: Deal 3 damage. Opponent loses all mana of their most abundant colour.
+Overwatch Grand Wizard 2	Alpha	alpha_nandeck_68,whiteback	White	_	A	_	_	0	APH105-2	C: Deal 3 damage. Opponent loses all mana of their most abundant colour.
+Sultan Baby	Alpha	alpha_nandeck_69,whiteback	White	A	_	_	B	1	APH106	A: (RYY) Deal 3 damage for each of your opponent's R. You receive 2 damage for each of your B.
+Cowboy Baby	Alpha	alpha_nandeck_70,whiteback	White	_	B	A	_	1	APH107	A: (BYY) Deal 3 damage for each of your opponent's B. You receive 2 damage for each of your G.
+Guys Turn 10	Alpha	alpha_nandeck_71,whiteback	White	B	_	A	_	1	APH111	A: If your HP is 10 or less, deal 7 damage.
+Coomer Club	Alpha	alpha_nandeck_72,whiteback	White	_	C	_	B	2	APH112	C: Deal damage equal to how many consecutive White cards are on the top of your deck.
+New Years Minesweeper	Alpha	alpha_nandeck_73,whiteback	White	_	_	A	B	2	APH115	A: Guess what the top card of your opponent's deck is. If you guess correctly, deal 7 damage.
+white15	Alpha	alpha_nandeck_74,whiteback	White	A	_	_	_	2	APH116	A: Deal 5 damage. Flip a coin.
+Moon Ping	Alpha	alpha_nandeck_75,whiteback	White	_	_	C	_	3	APH117	C: Deal 2 damage for each of your R, G, B, Y. Slow opponent.
+FUCK IT WE BALL	Alpha	alpha_nandeck_76,whiteback	White	A	A	A	A	3	APH118	A: IF YOUR HP IS 1 OR LESS, DEAL 999999 DAMAGE.
+Gurren Lagann	Alpha	alpha_nandeck_77,whiteback	White	C	C	C	C	3	APH119	C: Deal 3 damage for each Shield on opponent's card.
+Balkan Nationalism	Alpha	alpha_nandeck_78,whiteback	White	_	_	_	A	3	APH120	A: (RGBYY) Deal 2 damage for each of your mana.
+Guys Turn 20	Alpha	alpha_nandeck_79,whiteback	White	_	A	_	B	3	APH121	A: (RGG) Deal damage equal to 1/2 of your current HP.
+Gacha Addiction	Alpha	alpha_nandeck_80,blackback	Black	B	A	_	_	0	APH122	A: Flip a coin 10 times. Deal damage equal to 10 divided by the amount of tails.
+The Worst Card Game	Alpha	alpha_nandeck_81,blackback	Black	A	B	C	B	0	APH123	(RRGGBBYYAA) Win the game. A: (RR) Deal 2 damage, Berserk 5. B: (GG) Deal 2 damage. Poison opponent. C: (BB) Heal 2 HP for each Shield on opponent's card. B: (YY) Heal 2 HP. Opponent loses 2 mana of their most abundant colour.
+Alchemy	Alpha	alpha_nandeck_82,blackback	Black	B	_	B	B	1	APH124	A: Gain 1 gay mana.
+AI Porn	Alpha	alpha_nandeck_83,blackback	Black	A	_	_	B	2	APH125	A: (RGY) Deal damage equal to 1/2 of your current HP.
+Game Suck Ever	Alpha	alpha_nandeck_84,blackback	Black					2	APH126	(RRGGBBYY) Both players lose the game?
+Masonic Literature	Alpha	alpha_nandeck_85,blackback	Black					3	APH127	Set your HP to any number equal to or less than 5.
 Counterspell from Magic the Gathering	Alpha	alpha_CounterspellfromMagictheGathering,MtGback	Token					T	APH065-T	(BB) Counter target spell.
 Blue Eyes White Dragon from Yu-Gi-Oh!	Alpha	alpha_BlueEyesWhiteDragonfromYuGiOh,YGOback	Token					T	APH066-T	3000 ATK, 2500 DEF
