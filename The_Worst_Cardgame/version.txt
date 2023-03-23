@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>230322</lastupdateYYMMDD>
+<versionurl>https://theworstcardgame.github.io/The_Worst_Cardgame/version.txt</versionurl>
+<updateurl>https://theworstcardgame.github.io/The_Worst_Cardgame/updatelist.txt</updateurl>
+<message>Version 0.1 - First Playtest Version</message>
+
+</version>
