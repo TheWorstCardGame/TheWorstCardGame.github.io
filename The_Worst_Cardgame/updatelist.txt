@@ -21,4 +21,4 @@ plugins/The_Worst_Cardgame/sets/setimages/general/yellowback.jpg	https://thewors
 plugins/The_Worst_Cardgame/sets/setimages/general/MtGback.jpg	https://theworstcardgame.github.io/The_Worst_Cardgame/sets/setimages/general/MtGback.jpg	291877
 plugins/The_Worst_Cardgame/sets/setimages/general/YGOback.jpg	https://theworstcardgame.github.io/The_Worst_Cardgame/sets/setimages/general/YGOback.jpg	-19360
 CardGeneralURLs:
-https://theworstcardgame.github.io/The_Worst_Cardgame/sets/setimages/Alpha
+https://theworstcardgame.github.io/The_Worst_Cardgame/sets/setimages/

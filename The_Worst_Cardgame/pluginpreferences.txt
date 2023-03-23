@@ -24,6 +24,7 @@
 <canned>/draw6</canned>
 <canned>/draw8</canned>
 <canned>Good game.</canned>
+<tokens>Counterspell from Magic the Gathering</tokens>
 <tokens>Blue Eyes White Dragon from Yu-Gi-Oh!</tokens>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
@@ -45,11 +46,16 @@
 <bindingmain9>CTRL+f</bindingmain9>
 <bindingmain15>CTRL+SHIFT+s</bindingmain15>
 <bindinggeneral0>CTRL+d</bindinggeneral0>
+<bindinggeneral1>META+d</bindinggeneral1>
 <bindinggeneral2>CTRL+r</bindinggeneral2>
 <bindinggeneral3>CTRL+UP</bindinggeneral3>
 <bindinggeneral4>CTRL+DOWN</bindinggeneral4>
 <bindinggeneral5>CTRL+LEFT</bindinggeneral5>
 <bindinggeneral6>CTRL+RIGHT</bindinggeneral6>
+<bindinggeneral7>META+LEFT</bindinggeneral7>
+<bindinggeneral8>ALT+z</bindinggeneral8>
+<bindingcard0>BACKSPACE</bindingcard0>
+<bindingcard1>ALT+q</bindingcard1>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
 <bindingcanned2>CTRL+3</bindingcanned2>
@@ -59,9 +65,14 @@
 <bindingcanned6>CTRL+7</bindingcanned6>
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
+<libraryignoredoubles>1</libraryignoredoubles>
+<recentformat>-1</recentformat>
+<filterkeystroke>1</filterkeystroke>
+<deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
 <tilt>40.000000</tilt>
+<isdownloadallmissing>1</isdownloadallmissing>
 
 </pluginpreferences>
